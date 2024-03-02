@@ -5,9 +5,7 @@
 <p align="center"><a href="https://t.me/about_sashikant/3"><img src="https://telegra.ph/file/25ead8ab2070e25ccbad5.jpg" width="400"></a></p>
 
 <p align="center">
-    
-<a href="https://app.codacy.com/manual/THEMADMAXPRO/MadmaxXMention/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    
+        
  <a href="https://github.com/THEMADMAXPRO/MadmaxXMention"> <img src="https://img.shields.io/github/repo-size/THEMADMAXPRO/MadmaxXMention?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     
  <a href="https://github.com/THEMADMAXPRO/MadmaxXMention/commits/prince"> <img src="https://img.shields.io/github/last-commit/THEMADMAXPRO/MadmaxXMention?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
